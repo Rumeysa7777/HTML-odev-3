@@ -1,0 +1,65 @@
+.leftbar{
+    color: rgb(47, 78, 171);
+    width: 200px;
+    height: 800px;
+    float: left;
+    padding-top: 800px;
+    
+    }
+    
+    
+    
+    header{
+        color: rgb(99, 93, 190);
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        height: 75px;
+        width: 1000px;
+        margin-left: 200px;
+        padding-left: 350px;
+        font-style: italic;
+    }
+    
+    
+    
+    h2{
+        color: rgb(195, 130, 222);  
+        text-decoration-line: underline;
+    }
+    
+    
+    .p1{
+        color: rgb(245, 215, 250);
+        margin-left: 210px;
+       
+    }
+    
+    .p2{
+        color: rgb(82, 133, 188);
+        margin-left: 210px;
+    }
+    
+    ul{
+        color: rgb(225, 213, 241);
+        margin-left: 200px;
+        font-size: 17px;
+    }
+    
+    h3{
+        color: rgb(130, 130, 182);
+        text-decoration: underline;
+    }
+    
+    ol{
+        color: rgb(225, 213, 241);
+        margin-left: 200px;
+        font-size: 17px;
+    }
+    
+    .p3{
+        color: rgb(187, 138, 168);
+        margin-left: 1300px;
+    }
+    
+    
+    
